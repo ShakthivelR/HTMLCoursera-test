@@ -1,1 +1,1 @@
-https://shakthivelr.github.io/HTMLCoursera-test/
+https://shakthivelr.github.io/HTMLCoursera-test/assignment
